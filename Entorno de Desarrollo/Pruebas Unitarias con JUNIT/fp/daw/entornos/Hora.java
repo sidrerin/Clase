@@ -37,6 +37,7 @@ public class Hora {
 		BufferedReader br = new BufferedReader(isr);
 		System.out.print("Introduce la hora: " );
 		System.out.println(validar(br.readLine()));
+		System.out.print("Prueba Modificacion" );
 
 	}
 
